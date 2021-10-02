@@ -1,0 +1,10 @@
+/.terraform
+/.vscode
+/.terraform.lock.hcl
+/terraform.tfstate
+/terraform.tfstate.backup
+/ca-cert.pem
+/client-cert.pem
+/client-privkey.pem
+/consumer
+/producer
